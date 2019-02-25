@@ -1,0 +1,16 @@
+{
+  "name": "music_launchpad",
+  "version": "1.0.0",
+  "description": "JavaScript Music Launchpad",
+  "main": "index.html",
+  "homepage": "https://duckie98.github.io/qmusic_launchpad/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d /"
+  },
+  "author": "qvnguyen",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
