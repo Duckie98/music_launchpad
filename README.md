@@ -1,6 +1,6 @@
 # This is my 'Music Launchpad' Front-end project using Vanilla JavaScript
 
-You could check out this project at this link: https://duckie98.github.io/music_launchpad/
+You could check out this project at this link: https://viet-quocnguyen.github.io/music_launchpad/
 
 ## Available Scripts
 
